@@ -35,7 +35,7 @@ avengers should be available to pick the next mission)
 to any avenger as of now.
 
 ● Captain Fury can assign an individual avenger to any mission. (But at any point max
-two avengers should be assigned to any mission.)
+two avengers should be assigned to any mission)
 
 ● Once the mission is assigned to any avenger, a notification will be sent to that
 avenger by email/SMS/pager
